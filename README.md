@@ -1,6 +1,7 @@
 <div>
    <a href="https://github.com/LopezTw">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lopeztw&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<a href="https://www.linkedin.com/in/lopeztw" target="_blank"><img align="right" height="30" width="90" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the badge&logo=linkedin&logoColor=white" target="_blank"></a>
    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lopeztw&layout=compact&langs_count=6&theme=tokyonight"/>
    </div>
    
