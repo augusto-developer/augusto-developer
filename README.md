@@ -1,3 +1,7 @@
+Hi o/ 
+I'm brazilian student and i'm learning about Java / MySQL in this moment and here you can found some exercises and projects about that languages.
+
+
 <div>
    <a href="https://github.com/LopezTw">
    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=lopeztw&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -7,7 +11,7 @@
 <div style="display: inline_block"><br>
 <img align="center" alt="Js" height="90" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
 
-### Segue abaixo meu Linkedin:
+### Follow below my Linkedin:
   
 </div>
 <div style="display: inline_block"><br>   
