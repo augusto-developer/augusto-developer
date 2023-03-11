@@ -1,6 +1,6 @@
-Hi o/ 
-I'm brazilian student and i'm learning about Java / MySQL in this moment and here you can found some exercises and projects about that languages.
-
+<b><br>Hi o/</br> 
+I'm brazilian student and i'm learning about Java / MySQL in this moment and here you can found some exercises and projects about that languages. </b>
+<br></br>
 
 <div>
    <a href="https://github.com/LopezTw">
