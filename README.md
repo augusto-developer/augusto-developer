@@ -1,21 +1,50 @@
-<b><br>Hi o/</br> 
-I'm brazilian student and i'm learning about Java / MySQL in this moment and here you can found some exercises and projects about that languages. </b>
-<br></br>
+<h1 align="center">Olá, eu sou o Caio Augusto </h1>
+<br/>
 
-<div>
-   <a href="https://github.com/LopezTw">
-   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=lopeztw&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lopeztw&layout=compact&langs_count=6&theme=tokyonight"/>
-   </div>
-   
-<div style="display: inline_block"><br>
-<img align="center" alt="Js" height="90" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=08D5E1&center=true&vCenter=true&width=1000&lines=Desenvolvedor+Back-end)](https://git.io/typing-svg)
 
-### Follow below my Linkedin:
+##
+<br/>
+
+- Formado em <b>Gestão da Tecnologia da Informação pela Unicesumar</b>;
+- Estudante Java pela <b>Paragon Academy</b>;
+- Sinta-se a vontade para entrar em contato;
+- Me siga no LinkedIn para mais informações;
+- Procure pelo Nelio Alves no Youtube, ele além de possuir um curso incrível, também disponibiliza muito material gratuito;
+<br/>
+
+ | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lopeztw&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lopeztw&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
+ | ----------- | ----------- |
+ 
+<div align="center">
+   <h2 align="center"> SKILLS </h2>
+<br/>
+<a href="https://skillicons.dev"   >
+  <img src="https://skillicons.dev/icons?i=git,java,spring,figma,github,postman,mongodb,postgres,mysql" />
+</a>
+  <h2 align="center"> CONTATO </h2>
+<br/>
+<a href="https://www.linkedin.com/in/lopez2k/" target="_blank">
+   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+</a>
+</div> 
+
+
+
+##
+<div align="center" >
+   <img src="https://github-profile-trophy.vercel.app/?username=lopeztw&row=1&column=3&theme=dracula&margin-w=15&margin-h=15"/>
+</div>
   
-</div>
-<div style="display: inline_block"><br>   
-<a href="https://www.linkedin.com/in/lopez2k" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-   
+ 
 
-</div>
+
+
+
+
+
+ 
+  
+  
+
+  
