@@ -7,7 +7,7 @@
 <br/>
 
 - Formado em <b>Gestão da Tecnologia da Informação pela Unicesumar</b>;
-- Estudante Java pela <b>Paragon Academy</b>;
+- Estudante Java pela <b>DevSuperior (Nelio Alves)</b>;
 - Sinta-se a vontade para entrar em contato;
 - Me siga no LinkedIn para mais informações;
 - Procure pelo Nelio Alves no Youtube, ele além de possuir um curso incrível, também disponibiliza muito material gratuito;
