@@ -13,7 +13,7 @@
 - Me siga no LinkedIn para mais informações;
 <br/>
 
- | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lopeztw&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lopeztw&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
+ | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=augusto-developer&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lopeztw&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
  | ----------- | ----------- |
  
 <div align="center">
@@ -24,7 +24,7 @@
 </a>
   <h2 align="center"> CONTATO </h2>
 <br/>
-<a href="https://www.linkedin.com/in/lopez2k/" target="_blank">
+<a href="https://www.linkedin.com/in/augusto-developer/" target="_blank">
    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 </a>
 </div> 
@@ -33,7 +33,7 @@
 
 ##
 <div align="center" >
-   <img src="https://github-profile-trophy.vercel.app/?username=lopeztw&row=1&column=3&theme=dracula&margin-w=15&margin-h=15"/>
+   <img src="https://github-profile-trophy.vercel.app/?username=augusto-developer&row=1&column=3&theme=dracula&margin-w=15&margin-h=15"/>
 </div>
   
  
