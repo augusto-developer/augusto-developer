@@ -34,8 +34,12 @@
 ##
 <div align="center" >
    <img src="https://github-profile-trophy.vercel.app/?username=augusto-developer&row=1&column=3&theme=dracula&margin-w=15&margin-h=15"/>
+
+   <br> ![](https://komarev.com/ghpvc/?username=augusto-developer)
+
 </div>
-  
+ 
+
  
 
 
