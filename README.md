@@ -7,9 +7,9 @@
 <br/>
 
 - Formado em <b>Gestão da Tecnologia da Informação pela Unicesumar</b>;
+- Cursando <b>Ciência da Computação</b> pela Estácio;
 - Estudante Java pela <b>DevSuperior (Nelio Alves)</b>;
 - Sinta-se a vontade para entrar em contato;
-- Procure pelo Nelio Alves no Youtube, ele além de possuir um curso incrível, também disponibiliza muito material gratuito;
 - Me siga no LinkedIn para mais informações;
 <br/>
 
