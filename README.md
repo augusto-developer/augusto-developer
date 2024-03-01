@@ -14,8 +14,6 @@
 - Me siga no LinkedIn para mais informações;
 <br/>
 
-##
-<br/>
 <h1>Habilidades:</h1>
 
 - Java 17
@@ -44,14 +42,14 @@
 - H2 p/ testes
 - MySQL
 - PostgreSQL
-
-##
+<br/>
 
 <h1>Principais Projetos:</h1>
 
 - ⭐[PoeSearchItem](https://github.com/augusto-developer/PoeSearchItem)
 - ⭐[LTCommerce - DevSuperior](https://github.com/augusto-developer/ltcommerce_devsuperior)
 - ⭐[CRUD de Clientes](https://github.com/augusto-developer/Client_CRUD)
+<br/>
 <br/>
   
  | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=augusto-developer&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=augusto-developer&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
