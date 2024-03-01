@@ -5,6 +5,7 @@
 
 ##
 <br/>
+<h1>Sobre mim:</h1>
 
 - Formado em <b>Gestão da Tecnologia da Informação pela Unicesumar</b>;
 - Cursando <b>Ciência da Computação</b> pela Estácio;
@@ -13,6 +14,46 @@
 - Me siga no LinkedIn para mais informações;
 <br/>
 
+##
+<br/>
+<h1>Habilidades:</h1>
+
+- Java 17
+- API REST
+- Java Spring
+- Spring Security Authentication (OAuth2 Basic)
+- Arquitetura MVC
+- JPA e JWT
+- CRUD
+- Testes unitários com JUnit
+- SQL e JPQL
+- Validação de Dados
+- Modelo de Dominio
+- Microsservices (básico)
+- JSON 
+- Git
+- Github
+- Docker
+
+<b><i>Frontend:</i></b>
+- HTML5
+- CSS
+- JavaScript
+
+<b><i>Banco de Dados:</i></b>
+- H2 p/ testes
+- MySQL
+- PostgreSQL
+
+##
+
+<h1>Principais Projetos:</h1>
+
+- ⭐[PoeSearchItem](https://github.com/augusto-developer/PoeSearchItem)
+- ⭐[LTCommerce - DevSuperior](https://github.com/augusto-developer/ltcommerce_devsuperior)
+- ⭐[CRUD de Clientes](https://github.com/augusto-developer/Client_CRUD)
+<br/>
+  
  | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=augusto-developer&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=augusto-developer&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
  | ----------- | ----------- |
  
