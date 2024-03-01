@@ -46,9 +46,9 @@
 
 <h1>Principais Projetos:</h1>
 
-- ⭐[PoeSearchItem](https://github.com/augusto-developer/PoeSearchItem)
-- ⭐[LTCommerce - DevSuperior](https://github.com/augusto-developer/ltcommerce_devsuperior)
-- ⭐[CRUD de Clientes](https://github.com/augusto-developer/Client_CRUD)
+- ⭐[PoeSearchItem](https://github.com/augusto-developer/PoeSearchItem) | Ajudar os jogadores de Path of Exile, montar seus personagens bem mais rápido.
+- ⭐[LTCommerce - DevSuperior](https://github.com/augusto-developer/ltcommerce_devsuperior) | Simulando o back-end de um comercio eletrônico
+- ⭐[CRUD de Clientes](https://github.com/augusto-developer/Client_CRUD) | Praticando o CRUD em um ambiente onde trata-se de Clientes
 <br/>
 <br/>
   
