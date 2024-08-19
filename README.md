@@ -15,9 +15,30 @@
 <br/>
 
 <h1>Habilidades:</h1>
-
-- Java 17
+- Python, 
+- SQL,
+- Docker, 
+- Kubernetes,
+- Apache Airflow
+- Airbyte
+- Google Cloud
+- AWS
+- ETL / ELT
+- MySQL, 
+- PostgreSQL, 
+- Spark
 - API REST
+- JSON 
+- Git
+- Github
+
+<b><i>Frontend:</i></b>
+- HTML5
+- CSS
+- JavaScript
+
+<b><i>Outra habilidades/noções:</i></b>
+- Java 17
 - Java Spring
 - Spring Security Authentication (OAuth2 Basic)
 - Arquitetura MVC
@@ -28,20 +49,6 @@
 - Validação de Dados
 - Modelo de Dominio
 - Microsservices (básico)
-- JSON 
-- Git
-- Github
-- Docker
-
-<b><i>Frontend:</i></b>
-- HTML5
-- CSS
-- JavaScript
-
-<b><i>Banco de Dados:</i></b>
-- H2 p/ testes
-- MySQL
-- PostgreSQL
 <br/>
 
 <h1>Principais Projetos:</h1>
