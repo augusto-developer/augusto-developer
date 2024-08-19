@@ -15,17 +15,17 @@
 <br/>
 
 <h1>Habilidades:</h1>
-- Python, 
-- SQL,
-- Docker, 
-- Kubernetes,
+- Python
+- SQL
+- Docker,
+- Kubernetes
 - Apache Airflow
 - Airbyte
 - Google Cloud
 - AWS
 - ETL / ELT
 - MySQL, 
-- PostgreSQL, 
+- PostgreSQL
 - Spark
 - API REST
 - JSON 
