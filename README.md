@@ -17,7 +17,7 @@
 <h1>Habilidades:</h1>
 - Python
 - SQL
-- Docker,
+- Docker
 - Kubernetes
 - Apache Airflow
 - Airbyte
