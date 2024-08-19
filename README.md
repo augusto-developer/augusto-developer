@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Caio Augusto </h1>
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=08D5E1&center=true&vCenter=true&width=1000&lines=Data+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=08D5E1&center=true&vCenter=true&width=1000&lines=Engenheiro+de+Dados)](https://git.io/typing-svg)
 
 ##
 <br/>
